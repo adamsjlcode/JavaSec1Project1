@@ -1,4 +1,4 @@
- Project One (Days Years Months Format)
+# Project One (Days Years Months Format)
 First coding project in my life after looking over this years later, let me just say I have come a long way. Enjoy
 
 **The student should be able to:**
